@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598619684333",
+    "project_id": "note-taking-6906a",
+    "storage_bucket": "note-taking-6906a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598619684333:android:864e1afcb34d99ac533be4",
+        "android_client_info": {
+          "package_name": "gaur.himanshu.august.notetaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598619684333-ak6n595d8g0lce6esegbe0mulhdfg360.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGEMtA8y2eS75g7ToMay2ofFnbe-7jlok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598619684333-ak6n595d8g0lce6esegbe0mulhdfg360.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
